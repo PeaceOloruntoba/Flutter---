@@ -1,0 +1,110 @@
+{
+
+    "welcome to" : "Bienvenido",
+    "login to continue": "Iniciar sesión para continuar",
+    "welcome-intro": "Explore las últimas noticias y eventos que suceden en el mundo en minutos. Suscríbete y recibe notificaciones de todos nuestros artículos y compártelos con tus amigos.",
+    "skip": "Saltar",
+
+    "don't have an account?" : "¿No tienes una cuenta?",
+    "create" : "Crear",
+    "create account" : "Crear una cuenta",
+    "login" : "Acceso",
+    "login to access all features" : "Inicie sesión para acceder a todas las funciones",
+    "follow the simple steps": "Siga los sencillos pasos",
+    "already have an account?": "¿Ya tienes una cuenta?",
+
+    "search contents" : "Buscar noticias",
+    "popular contents" : "Noticias populares",
+    "recent contents" : "Últimas noticias",
+    "view all" : "ver todo",
+
+    "search" : "Buscar",
+    "search for contents" : "Buscar noticias",
+    "recent searches" : "Búsquedas recientes",
+    "search-description" :  "Aún no has buscado ningún artículo.\n Pruébelo ahora, ¡le ayudaremos!",
+    "try again" : "¡Intentar otra vez!",
+    "categories" : "Categorías",
+
+    "clear all" : "Limpiar todo",
+    "bookmark is empty" : "¡Tu marcador está vacío!",
+    "save your favourite contents here" : "Guarda aquí tus recetas favoritas",
+    "added to your bookmark" : "Agregado a su marcador",
+
+    "no categories found": "No se encontraron categorías",
+    "no contents found" : "No se encontraron recetas",
+    "no internet" : "¡Sin conexión a Internet!",
+    "check your internet connection" : "¡Comprueba tu conexión a Internet!",
+    "contents you might love" : "Artículos que te pueden gustar",
+    
+    "comments" : "Comentarios",
+    "view comments" : "Ver comentarios",
+    "write a comment" : "Escribir un comentario", 
+    "no comments found" : "No se encontraron comentarios",
+    "be the first to comment" : "Se el primero en comentar",
+    "login to make comments" : "Inicie sesión para hacer comentarios",
+    "comment success title" : "Comentario enviado con éxito",
+    "comment success description" : "Su comentario ha sido enviado para revisión. Verá su comentario en esta lista después de la revisión.\nGracias",
+    "you can't delete others comment" : "No puedes borrar el comentario de otros",
+    "you can't edit others comment" : "No puedes editar el comentario de otros",
+    "update comment" : "Actualizar comentario",
+
+    "delete" : "Borrar",
+    "update" : "Actualizar",
+
+    "notifications" : "Notificaciones",
+    "notification details" : "Detalles de la notificación",
+    "no notification title": "¡No se encontraron notificaciones!",
+    "no notification description" : "Aún no has recibido ninguna notificación. Asegúrese de haber activado las notificaciones desde la configuración.",
+
+    "settings": "Ajustes",
+    "general settings" : "Configuración general",
+    "social settings" : "Ajustes sociales",
+    "about app" : "Acerca de la aplicación",
+    "dark mode" : "Modo oscuro",
+    "get notifications" : "Recibir notificaciones",
+    "contact us" : "Contacta con nosotros",
+    "rate this app" : "Califica esta aplicación",
+    "licence" : "Licencia",
+    "privacy policy" : "Política de privacidad",
+    "about us" : "Sobre nosotros",
+    "logout" : "Cerrar sesión",
+    "our website" : "Nuestra página web",
+    "facebook page" : "Pagina de Facebook",
+    "youtube channel" : "Canal de Youtube",
+
+    "logout title" : "¿Salir de la aplicación?",
+    "logout description" : "¿Realmente quieres cerrar la sesión de la aplicación? Perderás todos tus datos guardados. ¿Continuar?",
+
+    "language" : "Idioma",
+    "select language" : "Seleccione el idioma",
+
+    "explore" : "Explorar",
+    "videos" : "Videos",
+    "video contents": "Artículos de video",
+    "twitter": "Twitter",
+    "bookmark": "Marcador",
+    "bookmarks": "Marcadores",
+
+    "clear all notification-dialog": "¿Quieres borrar todos los datos de las notificaciones?",
+    "clear all bookmark-dialog": "¿Quieres borrar todos los artículos guardados?",
+
+    "buy now" : "Compra esta aplicación",
+    "buy now subtitle" : "Compre el código fuente completo aquí",
+
+    "accept terms": "Aceptar términos y condiciones",
+    "flag comment" : "Marcar este comentario",
+    "unflag comment" : "Desmarcar este comentario",
+    "report" : "Reporte",
+    "report-info" : "Su informe se ha enviado correctamente a los administradores.",
+    "comment flagged" : "¡Este comentario ha sido marcado!",
+
+    "security": "Seguridad",
+    "request-account-delete": "Solicitud de eliminación de cuenta",
+    "account-delete-title": "¿Realmente quieres eliminar tu cuenta?",
+    "account-delete-confirm": "Sí, eliminar mi cuenta",
+    "cancel": "Cancelar"
+    
+
+
+
+}

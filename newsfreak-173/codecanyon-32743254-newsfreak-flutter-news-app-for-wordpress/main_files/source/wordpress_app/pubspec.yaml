@@ -1,0 +1,115 @@
+name: wordpress_app
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.7.3+10
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cached_network_image: ^3.2.2
+  cupertino_icons: ^1.0.5
+  dots_indicator: ^2.0.0
+  google_fonts: ^3.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  html_unescape: ^2.0.0
+  http: ^0.13.5
+  jiffy: ^5.0.0
+  path_provider: ^2.0.11
+  provider: ^6.0.3
+  shared_preferences: ^2.0.15
+  skeleton_text: ^3.0.0
+  firebase_core: ^1.23.0
+  firebase_messaging: ^13.0.3
+  rounded_loading_button: ^2.1.0
+  flutter_svg: ^1.1.5
+  url_launcher: ^6.1.5
+  share: ^2.0.4
+  launch_review: ^3.0.1
+  package_info: ^2.0.2
+  easy_localization: ^3.0.1
+  animated_bottom_navigation_bar: ^0.3.3
+  flutter_web_browser: ^0.17.1
+  flare_flutter: ^3.0.2
+  fluttertoast: ^8.0.8
+  google_mobile_ads: ^2.0.1
+  loading_indicator: ^3.1.0
+  flutter_html: ^3.0.0-alpha.5
+  firebase_analytics: ^9.3.6
+  pod_player: ^0.1.0
+  flutter_icons:
+    git:
+      url: https://github.com/adarsh-technocrat/flutter-icons
+  md2_tab_indicator:
+    git:
+      url: https://github.com/westdabestdb/md2_tab_indicator
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  change_app_package_name: ^1.0.0
+  flutter_launcher_icons: "^0.10.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.png"
+
+    
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/translations/
+    - assets/animation_files/
+
+  fonts:
+
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Manrope-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Manrope-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Manrope-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Manrope-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Manrope-ExtraBold.ttf
+          weight: 800
+
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Light.ttf
+          weight: 400
+        - asset: assets/fonts/Raleway-ExtraBold.ttf
+          weight: 800
+
+
+    - family: Open Sans
+      fonts:
+        - asset: assets/fonts/OpenSans-Light.ttf
+          weight: 400
+        - asset: assets/fonts/OpenSans-Regular.ttf
+          weight: 500
+
+
+
+

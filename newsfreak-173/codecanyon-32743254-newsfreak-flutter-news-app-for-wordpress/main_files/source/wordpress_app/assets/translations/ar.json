@@ -1,0 +1,110 @@
+{
+
+    "welcome to" : "مرحبا بك في",
+    "login to continue": "تسجيل الدخول للمتابعة",
+    "welcome-intro": "اكتشف آخر الأخبار والأحداث التي تحدث في العالم في دقائق. اشترك واحصل على إشعار بجميع مقالاتنا وشاركها مع أصدقائك ..",
+    "skip": "يتخطى",
+
+    "don't have an account?" : "ليس لديك حساب؟",
+    "create" : "يخلق",
+    "create account" : "إنشاء حساب",
+    "login" : "تسجيل الدخول",
+    "login to access all features" : "تسجيل الدخول للوصول إلى جميع الميزات",
+    "follow the simple steps": "اتبع الخطوات البسيطة",
+    "already have an account?": "هل لديك حساب؟",
+
+    "search contents" : "البحث عن الأخبار",
+    "popular contents" : "أخبار شعبية",
+    "recent contents" : "أحدث الأخبار",
+    "view all" : "مشاهدة الكل",
+
+    "search" : "يبحث",
+    "search for contents" : "البحث عن الأخبار",
+    "recent searches" : "عمليات البحث الأخيرة",
+    "search-description" :  "لم تبحث عن أي عناصر حتى الآن.\n جرب الآن - سنساعدك!",
+    "try again" : "حاول مرة أخري!",
+    "categories" : "فئات",
+
+    "clear all" : "امسح الكل",
+    "bookmark is empty" : "المرجعية الخاصة بك فارغة!",
+    "save your favourite contents here" : "احفظ الوصفات المفضلة لديك هنا",
+    "added to your bookmark" : "يضاف إلى المرجعية الخاصة بك",
+
+    "no categories found": "لم يتم العثور على فئات",
+    "no contents found" : "لم يتم العثور على وصفات",
+    "no internet" : "لا يوجد اتصال بالإنترنت!",
+    "check your internet connection!" : "تحقق من اتصالك بالإنترنت!",
+    "contents you might love" : "مقالات قد تحبها",
+    
+    "comments" : "تعليقات",
+    "view comments" : "تعليقات عرض",
+    "write a comment" : "أكتب تعليقا", 
+    "no comments found" : "لا توجد تعليقات",
+    "be the first to comment" : "كن أول من يعلق",
+    "login to make comments" : "تسجيل الدخول لإبداء التعليقات",
+    "comment success title" : "تم إرسال التعليق بنجاح",
+    "comment success description" : "تم تقديم تعليقك للمراجعة. سترى تعليقك في هذه القائمة بعد المراجعة.\nشكرا",
+    "you can't delete others comment" : "لا يمكنك حذف تعليق الآخرين",
+    "you can't edit others comment" : "لا يمكنك تعديل تعليق الآخرين",
+    "update comment" : "تحديث التعليق",
+
+    "delete" : "حذف",
+    "update" : "تحديث",
+
+    "notifications" : "إشعارات",
+    "notification details" : "تفاصيل الإخطار",
+    "no notification title": "لم يتم العثور على إخطارات!",
+    "no notification description" : "لم تتلق أي إخطارات حتى الآن. تأكد من تشغيل الإخطارات من الإعدادات.",
+
+    "settings": "إعدادات",
+    "general settings" : "الاعدادات العامة",
+    "social settings" : "الوضع الاجتماعي",
+    "about app" : "حول التطبيق",
+    "dark mode" : "الوضع المظلم",
+    "get notifications" : "الحصول على الإشعارات",
+    "contact us" : "اتصل بنا",
+    "rate this app" : "قيم هذا التطبيق",
+    "licence" : "رخصة",
+    "privacy policy" : "سياسة الخصوصية",
+    "about us" : "معلومات عنا",
+    "logout" : "تسجيل خروج",
+    "our website" : "موقعنا",
+    "facebook page" : "صفحة الفيسبوك",
+    "youtube channel" : "قناة يوتيوب",
+
+    "logout title" : "هل تريد الخروج من التطبيق؟",
+    "logout description" : "هل تريد حقًا تسجيل الخروج من التطبيق؟ ستفقد جميع البيانات المحفوظة الخاصة بك. يكمل؟",
+
+    "language" : "لغة",
+    "select language" : "اختار اللغة",
+
+    "explore" : "يستكشف",
+    "videos" : "أشرطة فيديو",
+    "video contents": "مقالات الفيديو",
+    "twitter": "تويتر",
+    "bookmark": "المرجعية",
+    "bookmarks": "إشارات مرجعية",
+
+    "clear all notification-dialog": "هل تريد مسح كافة بيانات الإخطار؟",
+    "clear all bookmark-dialog": "هل تريد مسح جميع المقالات المحفوظة؟",
+
+    "buy now" : "شراء هذا التطبيق",
+    "buy now subtitle" : "شراء كود المصدر الكامل هنا",
+
+    "accept terms": "قبول الشروط والأحكام",
+    "flag comment" : "علم هذا التعليق",
+    "unflag comment" : "قم بإلغاء التأشير على هذا التعليق",
+    "report" : "نقل",
+    "report-info" : "تم إرسال تقريرك بنجاح إلى المسؤولين",
+    "comment flagged" : "تم تمييز هذا التعليق!",
+
+
+    "security": "حماية",
+    "request-account-delete": "طلب حذف الحساب",
+    "account-delete-title": "هل تريد حقا حذف حسابك؟",
+    "account-delete-confirm": "نعم ، احذف حسابي",
+    "cancel": "يلغي"
+
+
+
+}
